@@ -1,12 +1,4 @@
-
-/*
-Crafted and Designed By DesignDrastic
-Author: DesignDrastic
-Author URL: http://designdrastic.com
-License URL: http://designdrastic.com/license
-*/
-
-# Template Name
+# Digital-Agency-Web-Template
 ----------------------------------
 # Terms of Use
 
